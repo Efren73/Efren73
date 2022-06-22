@@ -7,14 +7,17 @@ My name is Efren and I am studying 6th semester of Computer technology engineeri
 I have worked in different projects since I started my career and I am going to mention some of them.
 ##### Wheel the world
 Wheel the world is a company that helps to make the world more accessible for people with disabilities, in this case, my team and me have developed an app where people around the world can insert the information of about a experience or tour.
+<p><img src = "https://github.com/Efren73/Efren73/blob/main/Wheel.jpg" /></p>
 
 
 ##### Banco de Alimentos de Cuernavaca
 In this case my team and me have developed a web and a movile application to help Banco de Alimentos to make efficient their process of collecting food.
+<p><img src = "https://github.com/Efren73/Efren73/blob/main/BAMX.jpg" /></p>
 
 
 #### Maltia
 For Maltia my team and me have developed a project to improve the business loan method.
+<p><img src = "https://github.com/Efren73/Efren73/blob/main/maltia.jpg" /></p>
 
 
 #### Skills
