@@ -6,14 +6,24 @@ My name is Efren and I am studying 6th semester of Computer technology engineeri
 #### My works
 I have worked in different projects since I started my career and I am going to mention some of them.
 ##### Wheel the world
-Wheel the world is a company that helps to make the world more accessible for people with disabilities, in this case, me and my team have created an app where people around the world can insert the information of a 
+Wheel the world is a company that helps to make the world more accessible for people with disabilities, in this case, my team and me have developed an app where people around the world can insert the information of about a experience or tour.
 
 
 ##### Banco de Alimentos de Cuernavaca
-W
+In this case my team and me have developed a web and a movile application to help Banco de Alimentos to make efficient their process of collecting food.
+
+
+#### Maltia
+For Maltia my team and me have developed a project to improve the business loan method.
+
 
 #### Skills
-[![SQL](https://img.shields.io/badge/Ejemplo?style=for-the-badge&logo=wordpress?logoColor=violet?labelColor=abcdef)](http://google.com)
+* React
+* Express
+* SQL
+* Python
+* Firestore
+* AWS
 
 #### Find me at
 [Linkedin](linkedin.com/in/efren-aldana)
