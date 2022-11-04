@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About me
-My name is Efren and I am studying 6th semester of Computer technology engineering at Tecnológico de Monterrey. 
+My name is Efren and I am studying 7th semester of Computer technology engineering at Tecnológico de Monterrey. 
 
 #### My works
 I have worked in different projects since I started my career and I am going to mention some of them.
